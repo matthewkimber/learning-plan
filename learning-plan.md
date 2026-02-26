@@ -1,8 +1,8 @@
 # Learning Plan (2026)
 
-**Owner:** Matthew Kimber
-
-**Last Update:** 2026-02-26
+| Owner | Last Update |
+|---|---|
+| Matthew Kimber | 2026-02-26 |
 
 ## Operating Rules
 
